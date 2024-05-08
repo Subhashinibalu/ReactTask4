@@ -12,7 +12,7 @@ const App = () => {
   const data = [
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+        "https://tse1.mm.bing.net/th?id=OIP.v5yOgrGYbWmPJr58hzpEowAAAA&pid=Api&P=0&h=180",
       title: "Full Stack Development",
       intro: "Best Full-Stack Development Project Ideas in 2024",
       author: "Isha Sharma",
@@ -21,7 +21,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+        "https://tse1.mm.bing.net/th?id=OIP.WBzz0smt-skJwF4TdklCtQHaEL&pid=Api&P=0&h=180",
       title: "Cyber Security",
       intro: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       author: "Tushar Vinocha",
@@ -48,7 +48,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png",
+        "https://tse3.mm.bing.net/th?id=OIP.2teCVtzk4icVUQwR232MCAHaEH&pid=Api&P=0&h=180",
       title: "Full Stack Development",
       intro: "How does Apache work? A detailed introduction to Apache",
       author: "Tushar Vinocha",
@@ -57,7 +57,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+        "https://tse2.mm.bing.net/th?id=OIP.DJGYsXXC2qah0mO7ci1LywHaEK&pid=Api&P=0&h=180",
       title: "Cyber Security",
       intro: "8 Different Types of Cybersecurity and Threads Involved",
       author: "Tushar Vinocha",
@@ -75,7 +75,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2021/05/react-600x314.jpg",
+        "https://tse4.mm.bing.net/th?id=OIP.gMUAfrHInWGo6p_QSrEVAwHaD8&pid=Api&P=0&h=180",
       title: "Full Stack Development",
       intro: "6 Essential Prerequisites For Learning ReactJs",
       author: "Ramkumar",
@@ -84,7 +84,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+        "https://tse2.mm.bing.net/th?id=OIP.QrIlZIe2TqFbDGxiS82lxwAAAA&pid=Api&P=0&h=180",
       title: "Data Science",
       intro: "Everything about Data Scientist Salary in India | 2024",
       author: "Srinithi Shankar",
@@ -93,7 +93,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-600x314.png",
+        "https://tse1.mm.bing.net/th?id=OIP.Vi6VNCi7h8x4pBnOD884_gHaEA&pid=Api&P=0&h=180",
       title: "Cyber SEcurity",
       intro:
         "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
@@ -102,7 +102,7 @@ const App = () => {
       readTime: "3",
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.png",
+      image: "https://tse2.mm.bing.net/th?id=OIP.kTtc79r-fbjbPH-EtNvEYgHaFj&pid=Api&P=0&h=180",
       title: "Full Stack Development",
       intro: "10 Best Database Management Systems For Software Developers",
       author: "Isha Sharma",
@@ -111,7 +111,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png",
+        "https://tse3.mm.bing.net/th?id=OIP.ma_Jmwlgc6rWdwYkTXulZQHaD4&pid=Api&P=0&h=180",
       title: "Data Science",
       intro: "Can A Commerce Student Do Data Science?",
       author: "Saakshi Priyadarshini",
@@ -128,7 +128,7 @@ const App = () => {
       readTime: "3",
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg",
+      image: "https://tse1.mm.bing.net/th?id=OIP.3OGv8fxxzlDKZv9UDIllwAHaD4&pid=Api&P=0&h=180",
       title: "Full Stack Development",
       intro: "Best Web Development Roadmap for Beginners 2024",
       author: "Isha Sharma",
@@ -136,7 +136,7 @@ const App = () => {
       readTime: "5",
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+      image: "https://tse2.mm.bing.net/th?id=OIP.FMvBDoSKPl55TBG1e_G6PAHaEo&pid=Api&P=0&h=180",
       title: "Data Science",
       intro: "Roles and Responsibilities of a Data Scientist",
       author: "Jaishree Tomar",
@@ -145,7 +145,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+        "https://tse4.mm.bing.net/th?id=OIP.k0ehUhe1jxuSqvajrUs5EAEyDM&pid=Api&P=0&h=180",
       title: "Full Stack Development",
       intro: "Top 10 Full-Stack Developer Frameworks in 2024",
       author: "Isha Sharma",
@@ -154,7 +154,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+        "https://tse1.mm.bing.net/th?id=OIP.p0j5tGiwKqOGGwZ4_oEtzAHaFG&pid=Api&P=0&h=180",
       title: "Cyber Security",
       intro:
         "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
@@ -164,7 +164,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-2048x1365.jpg",
+        "https://tse1.mm.bing.net/th?id=OIP.aM0Z_SWoxu8EfB6MTLFqRgHaEK&pid=Api&P=0&h=180",
       title: "Data Science",
       intro: "How to become a Data Scientist after Mechanical Engineering?",
       author: "Lahari Chandana",
@@ -182,7 +182,7 @@ const App = () => {
       },
       {
         image:
-          "https://www.guvi.in/blog/wp-content/uploads/2024/04/Best-MERN-Stack-Projects-To-Make-in-2024.png",
+          "https://tse2.mm.bing.net/th?id=OIP.9F5r6wrOfoGNnFs6xe9EmAHaEK&pid=Api&P=0&h=180",
         title: "Career",
         intro: "MERN Stack Development",
         author: "Isha Sharma",
@@ -200,7 +200,7 @@ const App = () => {
       },
       {
         image:
-          "https://www.guvi.in/blog/wp-content/uploads/2022/10/Best-Websites-to-Learn-DIgital-Marketing-in-2023.jpg",
+          "https://tse2.mm.bing.net/th?id=OIP.CvErn0LApE677YQ71GOSbQHaEK&pid=Api&P=0&h=180",
         title: "Career",
         intro: "Learn Digital Marketing",
         author: "Saanchi Bhardwaj",
@@ -209,7 +209,7 @@ const App = () => {
       },
       {
         image:
-          "https://www.guvi.in/blog/wp-content/uploads/2020/11/word-image-1-1.jpeg",
+          "https://tse4.mm.bing.net/th?id=OIP.OCiWPHlIR1s_0BPpa-cq7AHaEC&pid=Api&P=0&h=180",
         title: "Career",
         intro: "A Guide to Learn Blockchain Technology From Scratch",
         author: "Lukesh S",
