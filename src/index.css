@@ -1,4 +1,4 @@
-.nav .nav-item a{
+.navbar .navbar-nav .nav-item a{
 
     text-decoration: none !important;
     color: black !important;
@@ -6,7 +6,7 @@
     padding: 30px !important;
     border: 2px solid transparent !important;
 }
-.nav .nav-item a:hover{
+.navbar .navbar-nav .nav-item a:hover{
     color: #0DBA4B !important;
     font-weight: 600 !important;
     border-bottom: 5px solid #0DBA4B !important;
