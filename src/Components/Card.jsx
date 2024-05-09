@@ -6,7 +6,7 @@ const Card = ({element},{index}) => {
         <>
                 
                    
-  <div className="card  mt-3" style={{width: "18rem"}}>
+  <div className="card  mt-3 ms-auto me-auto" style={{width: "18rem"}}>
   <img src={element.image} className="card-img-top" alt={element.title} style={{width: "18rem", height:"11rem"}}/>
   <div className="card-body">
     <h6 className="card-title">{element.intro}</h6>

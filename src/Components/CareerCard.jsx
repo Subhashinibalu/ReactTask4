@@ -3,7 +3,7 @@ import React from 'react';
 const CareerCard = ({element},{index}) => {
     return (
         <>
-         <div className="card  mt-3" style={{width: "18rem"}}>
+         <div className="card  mt-3 ms-auto me-auto" style={{width: "18rem"}}>
   <img src={element.picture} className="card-img-top" alt={element.heading} style={{width: "18rem", height:"11rem"}}/>
   <div className="card-body">
     <h6 className="card-title fw-bold mb-3">{element.heading}</h6>
