@@ -179,44 +179,43 @@ const App = () => {
         author: "Srinithi Sankar",
         date: "23 March,2024",
         readTime: "3",
-      },
-      {
-        image:
-          "https://tse2.mm.bing.net/th?id=OIP.9F5r6wrOfoGNnFs6xe9EmAHaEK&pid=Api&P=0&h=180",
-        title: "Career",
-        intro: "MERN Stack Development",
-        author: "Isha Sharma",
-        date: "03 May, 2024",
-        readTime: "5",
-      },
-      {
-        image:
-          "https://www.guvi.in/blog/wp-content/uploads/2023/07/skilld-required-to-become-a-uui-ux-designer-2048x1072.webp",
-        title: "Career",
-        intro: "UI/UX Design",
-        author: "Srinithi Sankar",
-        date: "16 March, 2024",
-        readTime: "3",
-      },
-      {
-        image:
-          "https://tse2.mm.bing.net/th?id=OIP.CvErn0LApE677YQ71GOSbQHaEK&pid=Api&P=0&h=180",
-        title: "Career",
-        intro: "Learn Digital Marketing",
-        author: "Saanchi Bhardwaj",
-        date: "21 March, 2024",
-        readTime: "5",
-      },
-      {
-        image:
-          "https://tse4.mm.bing.net/th?id=OIP.OCiWPHlIR1s_0BPpa-cq7AHaEC&pid=Api&P=0&h=180",
-        title: "Career",
-        intro: "A Guide to Learn Blockchain Technology From Scratch",
-        author: "Lukesh S",
-        date: "06 Oct, 2024",
-        readTime: "3",
       }
+     
+      
+     
   ];
+  const careerData=[  {
+    picture:
+      "https://www.guvi.in/blog/wp-content/uploads/2023/07/skilld-required-to-become-a-uui-ux-designer-2048x1072.webp",
+    title: "Career",
+    heading: "UI/UX Design",
+    lang1:"TAMIL",
+    lang2:"ENGLISH"
+  },  {
+    picture:
+      "https://tse2.mm.bing.net/th?id=OIP.9F5r6wrOfoGNnFs6xe9EmAHaEK&pid=Api&P=0&h=180",
+    title: "Career",
+    heading: "MERN Stack Development",
+    lang1:"TAMIL",
+    lang2:"ENGLISH"
+  
+  },
+{
+    picture:
+      "https://tse4.mm.bing.net/th?id=OIP.OCiWPHlIR1s_0BPpa-cq7AHaEC&pid=Api&P=0&h=180",
+    title: "Career",
+    heading: "Blockchain Technology ",
+    lang1:"TAMIL",
+    lang2:"ENGLISH"
+  }
+  ,
+  {
+    picture:
+      "https://tse2.mm.bing.net/th?id=OIP.CvErn0LApE677YQ71GOSbQHaEK&pid=Api&P=0&h=180",
+    title: "Career",
+    heading: "Learn Digital Marketing",
+    lang1:"TAMIL"
+  },];
  
   return (
     <div>
@@ -232,10 +231,11 @@ const App = () => {
             path="/cybersecurity"
             element={<CyberSecurity data={data} />}
           />
-          <Route path="/career" element={<Career data={data} />} />
+          <Route path="/career" element={<Career careerData={careerData} />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
+      
     </div>
   );
 };

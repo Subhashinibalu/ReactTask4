@@ -1,16 +1,17 @@
 import React from 'react';
-import Card from '../Components/Card';
+import CareerCard from '../Components/CareerCard';
 
-const Career = ({data}) => {
-    const careerCourse = data.filter((element)=>element.title==="Career");
+
+const Career = ({careerData}) => {
+    
     return (
         <>
           <div className="container">
             <div className="row row-cols-lg-4 row-cols-md-2 row-cols-1 d-flex justify-content-center align-items-center mt-5">
-            {careerCourse.map((element,index)=>{
+            {careerData.map((element,index)=>{
                 return(
                     <div key={index}>
-                    <Card element={element} index={index} />
+                    <CareerCard element={element} index={index}/>
                     </div>
                 )
                 
